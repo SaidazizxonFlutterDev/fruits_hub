@@ -1,0 +1,5 @@
+class ServiceHive {
+  static openBox(){
+    
+  }
+}
